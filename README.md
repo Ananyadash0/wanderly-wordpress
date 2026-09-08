@@ -52,6 +52,7 @@ wanderly-wordpress/
 ## 📸 Screenshots
 
 ![Wanderly Home Page](screenshots/home.png)
+![Wanderly Destinations](screenshots/destinations.png)
 
 ## 👩‍💻 Author
 
