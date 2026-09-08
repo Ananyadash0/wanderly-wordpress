@@ -51,7 +51,7 @@ wanderly-wordpress/
 
 ## 📸 Screenshots
 
-Screenshots of the Wanderly website will be added here.
+![Wanderly Home Page](screenshots/home.png)
 
 ## 👩‍💻 Author
 
