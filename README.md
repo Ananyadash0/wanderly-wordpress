@@ -53,6 +53,11 @@ wanderly-wordpress/
 
 ![Wanderly Home Page](screenshots/home.png)
 ![Wanderly Destinations](screenshots/destinations.png)
+![Wanderly Travel Guides](screenshots/travel-guides.png)
+![Wanderly Packages](screenshots/packages.png)
+![Wanderly About](screenshots/about.png)
+![Wanderly Contact](screenshots/contact.png)
+
 
 ## 👩‍💻 Author
 
